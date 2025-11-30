@@ -110,7 +110,7 @@ This will:
 
 ## Results
 
-The PPO Improved implementation achieves:
+The PPO implementation achieves:
 - **Training Rewards**: Mean rewards reaching 900-1000+ by episode 300
 - **Evaluation Rewards**: Consistent high performance on evaluation seed
 - **Stable Learning**: Smooth convergence with low variance across seeds
@@ -175,5 +175,6 @@ Created for EEE 598 - Reinforcement Learning Assignment
 - Schulman et al. (2017). "Proximal Policy Optimization Algorithms"
 - DeepMind Control Suite documentation
 - PyTorch documentation
+
 
 
