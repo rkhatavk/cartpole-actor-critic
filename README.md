@@ -1,4 +1,4 @@
-# PPO Improved - Actor-Critic Implementation for CartPole Balance Task
+# PPO - Actor-Critic Implementation for CartPole Balance Task
 
 This repository contains an implementation of Proximal Policy Optimization (PPO) for solving the CartPole balance task using the DeepMind Control Suite (DMC).
 
@@ -175,4 +175,5 @@ Created for EEE 598 - Reinforcement Learning Assignment
 - Schulman et al. (2017). "Proximal Policy Optimization Algorithms"
 - DeepMind Control Suite documentation
 - PyTorch documentation
+
 
